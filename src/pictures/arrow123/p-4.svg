@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51" fill="none">
+  <circle cx="25.5" cy="25.5" r="25.5" transform="matrix(0 1 1 0 0 0)" fill="#912CC6"></circle>
+  <path d="M27.3438 37H31.8281V32.9844H34.7656V29.2031H31.8281V14.4531H25.1719C20.5469 21.2656 18.0938 25.2188 16.125 28.9688V32.9844H27.3438V37ZM20.2656 29.2188C22.0938 25.6875 24.0625 22.6094 27.3438 17.7969H27.4375V29.3438H20.2656V29.2188Z" fill="white"></path>
+</svg>

@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    
+}
+.text-class{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.font-color{
+    color: #000000!important;
+}
+.font-size{
+    font-size: 16px;
+}
+.font-weight{
+    font-weight: 600;
+}
+.text-color{
+    color:  #333;
+}
+.p-color{
+    color: #666;
+}
+.arrow-color{
+    color: #912cc6;
+}
+.footor-color{
+    background-color: #262626;
+}
+#slideshow .slide-container {
+  animation: slide-animation 20s infinite linear;
+}
+
+@keyframes slide-animation {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+.swiper {
+    width: 80%;
+    }
+
+    .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .swiper-slide img {
+    display: block;
+    object-fit: cover;
+    }
+
+
+
+  
+
+
+
+    
+
+
+
+    
